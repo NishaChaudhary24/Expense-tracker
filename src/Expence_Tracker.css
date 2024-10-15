@@ -1,0 +1,28 @@
+body{
+     
+    background-image: url("loginformcss.png");  
+    background-size: cover ;
+    background-repeat: no-repeat ;
+    display: grid;
+     
+    }
+     .cont{
+        font: 1em sans-serif;
+        backdrop-filter: blur(20px);
+    border: solid rgb(152, 209, 245) 3px;
+    padding-bottom: 25px;
+    padding-top:  40px;
+    padding-left: 30px;
+    padding-right: 20px;
+    text-align: left;
+    margin-top: 100px;
+     margin-bottom: 100px;
+     margin-left: 400px;
+     margin-right: 500px;
+     }
+
+     .card{
+        font: 1em sans-serif;
+        backdrop-filter: blur(20px);
+        border: solid rgb(152, 209, 245) 3px;
+     }
